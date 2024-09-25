@@ -3,5 +3,3 @@
 **/.env
 **/.DS_Store
 /temp
-input.json
-secrets.json
